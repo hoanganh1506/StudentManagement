@@ -1,6 +1,5 @@
-Phần mềm quản lý sinh viên viết bằng ngôn ngữ C
+Chức năng của hệ thống
 
-Chức năng của hệ thống:
 1. Them sinh vien
 2. Tim kiem sinh vien
 3. Xoa sinh vien
