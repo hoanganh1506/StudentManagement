@@ -1,4 +1,5 @@
 Bài tập lớn môn Kỹ thuật lập trình C/C++
+
 Chức năng của hệ thống
 
 1. Them sinh vien
